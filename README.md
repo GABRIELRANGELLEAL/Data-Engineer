@@ -8,23 +8,6 @@ The projects demonstrate how raw data can be transformed into reliable and struc
 
 ---
 
-# Repository Overview
-
-This repository is organized into different sections that reflect common components of a data engineering ecosystem.
-
-Data-engineering
-│
-├── docs
-│ Documentation related to architecture, design decisions, and technologies
-│
-├── shared
-│ Reusable utilities, connectors, and common data engineering patterns
-│
-└──  projects
-  Complete end-to-end data engineering projects
-  
----
-
 # Projects
 
 ## Customer Analytics KPI Pipeline
